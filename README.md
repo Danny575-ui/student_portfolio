@@ -23,6 +23,6 @@ Make sure that different parts are presented in the same style.
 Use if for interactive widgets (e. g. , navigation menu). 
 Smooth scrolling between sections.
 
-
+The code is live on https://danny575-ui.github.io/student_portfolio/
 
 
