@@ -1,5 +1,5 @@
 ## Project Description
-A web page showcasing the student’s information,  skills, projects, experience, achievements along with important links to github, linkedin,etc.
+A portfolio template showcasing the student’s information,  skills, projects, experience, achievements along with important links to github, linkedin,etc.
 
 ## Outline of the Solution
 ### Planning and Design: 
